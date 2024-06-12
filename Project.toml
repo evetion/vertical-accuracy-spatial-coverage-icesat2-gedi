@@ -1,0 +1,13 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GeoArrays = "2fb1d81b-e6a0-5fc5-82e6-8e06903437ab"
+GeoDataFrames = "62cb38b5-d8d2-4862-a48e-6a340996859f"
+GeoParquet = "e99870d8-ce00-4fdd-aeee-e09192881159"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+SpaceLiDAR = "29bf0bfc-420f-4fa5-b441-811fd9e6e11d"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+TiledIteration = "06e1c1a7-607b-532d-9fad-de7d9aa2abac"
+WellKnownGeometry = "0f680547-7be7-4555-8820-bb198eeb646b"
